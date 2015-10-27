@@ -12,7 +12,7 @@ import android.view.MenuItem;
 
 public class Splash extends AppCompatActivity {
 
-    public static int SPLASH_TIME_OUT = 3000;
+    public static int SPLASH_TIME_OUT = 1000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
